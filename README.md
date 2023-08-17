@@ -2,4 +2,4 @@
 
 - using **HTML, CSS, DOM**
 
-- visit  <a href="https://abd-allh.github.io/dicee-game-dom/"> Here! </a>
+- view demo  <a href="https://abd-allh.github.io/dicee-game-dom/"> Click Here! </a>
